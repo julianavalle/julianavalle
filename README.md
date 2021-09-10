@@ -1,9 +1,5 @@
 ## Olá! Eu sou a Juliana Valle
 
-- 🔭 I’m currently working on C# applications
-- 🌱 I’m currently learning front-end.
-- 😄 Pronouns: she/her/ela/dela
-
 <div>
 <a href="https://github.com/julianavalle">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianavalle&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -29,3 +25,8 @@
   <a href = "mailto:juju.pvg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliana-valle-413744219" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+- 🔭 I’m currently working on C# applications
+- 🌱 I’m currently learning front-end.
+- 😄 Pronouns: she/her/ela/dela
+
