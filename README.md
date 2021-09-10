@@ -30,3 +30,4 @@
 - 🌱 I’m currently learning front-end.
 - 😄 Pronouns: she/her/ela/dela
 
+![Snake animation](https://github.com/julianavalle/julianavalle/blob/output/github-contribution-grid-snake.svg)
