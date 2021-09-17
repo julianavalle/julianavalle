@@ -1,4 +1,4 @@
-## Olá! Eu sou a Juliana Valle
+## Hi! I'm Juliana Valle.
 
 <div>
 <a href="https://github.com/julianavalle">
