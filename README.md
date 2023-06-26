@@ -23,7 +23,7 @@
   <a href = "mailto:juju.pvg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-- 🔭 I’m currently working on C# applications
+- 🔭 I’m currently working on ReactJS and VueJS applications
 - 🌱 I’m currently learning front-end.
 - 😄 Pronouns: she/her/ela/dela
 
