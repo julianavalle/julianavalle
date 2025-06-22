@@ -1,4 +1,5 @@
 ## Hi! I'm Juliana Valle.
+🎓 Bachelor’s Degree in Software Engineering — Universidade de Brasília (UnB)
 
 <div>
 <a href="https://github.com/julianavalle">
@@ -23,8 +24,7 @@
   <a href = "mailto:juju.pvg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-- 🔭 I’m currently working on ReactJS and VueJS applications
+- 🔭 I’m currently working on Angular applications
 - 🌱 I’m currently learning front-end.
 - 😄 Pronouns: she/her/ela/dela
 
-![Snake animation](https://github.com/julianavalle/julianavalle/blob/output/github-contribution-grid-snake.svg)
